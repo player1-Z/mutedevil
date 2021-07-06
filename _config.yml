@@ -33,13 +33,13 @@ author: "mutedevil"
 title: "mutedevil"
 description: "mutedevil's website"
 keywords: "music, hiphop, beatz"
-favicon: "/img/favicon.ico"
+favicon: " "
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: " "
 logo: "/img/author.jpg" # leave blank if you don't want a logo
 
 background-img: "../img/intro-bg.jpg"
