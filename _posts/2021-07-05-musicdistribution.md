@@ -6,6 +6,6 @@ category: work
 tags: distribution
 ---
 
-From 2021.7.5, I'm in cooperation with the [MENACE](https://linktr.ee/menacelabel) label to distribute my music on Spotify, Deezer, Apple Music, Amazon Music, etc.  
+From 2021.7.5, I'm in cooperation with the [MENACE](https://soundcloud.com/menaceparis) label to distribute my music on Spotify, Deezer, Apple Music, Amazon Music, etc.  
 Soon you will be able to listen to my works on these platforms!  
 
