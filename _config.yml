@@ -178,10 +178,10 @@ author_blurb_image: "/img/author.jpg"
 ##################
 
 social:
-  - title: "bandcamp"
-    url: "https://mutedevil.bandcamp.com/" 
   - title: "soundcloud"
     url: "https://soundcloud.com/mutedevil"
+  - title: "bandcamp"
+    url: "https://mutedevil.bandcamp.com/" 
   - title: "beatstars"
     url: "https://www.beatstars.com/mutedevil/feed"
   - title: "netease music"
