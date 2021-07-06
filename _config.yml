@@ -186,8 +186,7 @@ social:
     url: "https://www.beatstars.com/mutedevil/feed"
   - title: "netease music"
     url: "https://music.163.com/#/artist?id=47526751"
-  - title: "beatshome"
-    url: "https://www.beatshome.com/beat/brand/103"
+
 
 ############
 # 404 page #
@@ -199,9 +198,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+#keybase-username: johnsmith
+#keybase-in-social: True
+#keybase-in-footer: True
 
 ################################################################################
 
