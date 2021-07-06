@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://le4ker.github.io"
+url: "https://github.com/player1-Z/mutedevil"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -56,10 +56,11 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Some people can read War and Peace and come away thinking it’s a simple adventure story."
+  - text: "Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe."
+   
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/jetpacktocat.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
