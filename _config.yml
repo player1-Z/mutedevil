@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "mutedevil"
-title: "{ mutedevil }"
+title: "mutedevil"
 description: "mutedevil's website"
 keywords: "music, hiphop, beatz"
 favicon: "/img/favicon.ico"
@@ -40,7 +40,7 @@ favicon: "/img/favicon.ico"
 ################
 
 black-favicon: "/img/black-lab-glass.ico"
-logo: " " # leave blank if you don't want a logo
+logo: "/img/author.jpg" # leave blank if you don't want a logo
 
 background-img: "../img/intro-bg.jpg"
 
@@ -178,7 +178,7 @@ author_blurb_image: "/img/author.jpg"
 ##################
 
 social:
-  - title: "bandcamp" <i class="fab fa-bandcamp"></i>
+  - title: "bandcamp"
     url: "https://mutedevil.bandcamp.com/" 
   - title: "soundcloud"
     url: "https://soundcloud.com/mutedevil"
