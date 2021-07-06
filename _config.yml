@@ -40,7 +40,7 @@ favicon: "/img/favicon.ico"
 ################
 
 black-favicon: "/img/black-lab-glass.ico"
-logo: "/img/author.png" # leave blank if you don't want a logo
+logo: "/img/author.jpg" # leave blank if you don't want a logo
 
 background-img: "../img/intro-bg.jpg"
 
@@ -178,8 +178,8 @@ author_blurb_image: "/img/author.jpg"
 ##################
 
 social:
-  - title: "bandcamp"
-    url: "https://mutedevil.bandcamp.com/"
+  - title: "bandcamp" <i class="fab fa-bandcamp"></i>
+    url: "https://mutedevil.bandcamp.com/" 
   - title: "soundcloud"
     url: "https://soundcloud.com/mutedevil"
   - title: "beatstars"
@@ -192,7 +192,7 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
+err-404-img: "/img/iStock-1142986365.jpg"
 
 ##################
 # GPG on Keybase #
