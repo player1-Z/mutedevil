@@ -133,16 +133,26 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+  - image: "/img/timeline/22.jpg"
+    date: "2018 - Today"
+    description: "Started making electronic music and hiphop beatz"
+  - image: "/img/timeline/spidertocat.jpg"
+    date: "2015"
+    description: "Started recording music and writing songs"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "2009"
+    description: "Started playing the guitar"
+  - image: "/img/timeline/piano.jpg"
+    date: "2001"
+    description: "Started learning the piano"
+  - image: "/img/timeline/default.jpg"
+    date: "1996"
+    description: "Born"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+
+
 
 ###########
 # Contact #
