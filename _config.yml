@@ -145,12 +145,10 @@ events:
   - image: "/img/timeline/piano.jpg"
     date: "2001"
     description: "Started learning the piano"
-  - image: "/img/timeline/default.jpg"
-    date: "1996"
-    description: "Born"
+
 
 # First image of the Timeline
-
+timeline-img: "/img/timeline/default.jpg"
 
 
 
@@ -158,7 +156,7 @@ events:
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "mutedevil@qq.com"
 
 
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
@@ -172,24 +170,24 @@ pgp: False
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb: "mutedevil is a musician, producer and beatmaker."
+author_blurb_image: "/img/author.jpg"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+  - title: "bandcamp"
+    url: "https://mutedevil.bandcamp.com/"
+  - title: "soundcloud"
+    url: "https://soundcloud.com/mutedevil"
+  - title: "beatstars"
+    url: "https://www.beatstars.com/mutedevil/feed"
+  - title: "netease music"
+    url: "https://music.163.com/#/artist?id=47526751"
+  - title: "beatshome"
+    url: "https://www.beatshome.com/beat/brand/103"
 
 ############
 # 404 page #
