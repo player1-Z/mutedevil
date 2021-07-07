@@ -148,7 +148,12 @@ events:
 
 
 # First image of the Timeline
-timeline-img: "/img/timeline/default.jpg"
+timeline-img: 
+  - image: "/img/timeline/default.jpg"
+    date: "1996"
+    description: "Born"
+
+# "/img/timeline/default.jpg"
 
 
 
